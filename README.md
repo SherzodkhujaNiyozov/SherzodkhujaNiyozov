@@ -42,4 +42,5 @@ happens below the frameworks I use every day.
 ### 📫 Reach me
 
 - 📧 sherniyozov2004@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherzodkhuja-niyozov-915227222/)
 - 💻 [github.com/SherzodkhujaNiyozov](https://github.com/SherzodkhujaNiyozov)
